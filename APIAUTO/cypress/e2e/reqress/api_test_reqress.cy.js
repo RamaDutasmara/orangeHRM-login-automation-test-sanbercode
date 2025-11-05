@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('API Testing Reqres.in with API Key', () => {
+describe('API Testing Reqres.in', () => {
 
   const baseUrl = 'https://reqres.in/api';
   const apiKey = 'reqres-free-v1'; // key sesuai instruksi
